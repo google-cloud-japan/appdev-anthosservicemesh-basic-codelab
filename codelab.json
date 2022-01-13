@@ -1,0 +1,25 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2022-01-13T11:09:38+09:00",
+  "id": "appdev-anthos-service-mesh-basic-codelab",
+  "duration": 5,
+  "title": "Anthos Service Mesh Basic Hands-on",
+  "summary": "Anthos Service Mesh basic level codelab",
+  "source": "tutorial.md",
+  "theme": "",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "codelab",
+    "markdown"
+  ],
+  "tags": [
+    "web"
+  ],
+  "feedback": "https://github.com/google-cloud-japan/appdev-anthosservicemesh-basic-codelab",
+  "url": "appdev-anthos-service-mesh-basic-codelab"
+}
